@@ -4,7 +4,7 @@
 
 [https://docs.microsoft.com/en-us/azure/terraform/terraform-overview](https://docs.microsoft.com/en-us/azure/terraform/terraform-overview)
 
-## Example of Terraform's HCL syntax
+## Example of Terraform's HashiCorp Configuration Language (HCL) syntax
 
 test.tf
 
